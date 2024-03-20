@@ -1,6 +1,8 @@
 # Agenda_Java_FIAP
 Esse repositório é uma agenda que criei enquanto realizava o curso de "Nivalemento" da FIAP.
 
+Para poder vizualiza-lo recomendo abri-lo pelo IntelliJ.
+
 1.Agenda_Java (Pasta Principal):
 
   Menu.java: Esta é a classe principal do programa. Ela exibe um menu para o usuário e executa a ação correspondente com base na opção escolhida pelo usuário. As opções do menu incluem adicionar um novo contato, editar um contato existente, pesquisar um contato, listar todos os contatos, apagar um contato e sair do programa.
